@@ -1,0 +1,303 @@
+text,label
+Explain the stock market,other
+What's your message rate?,swarm
+show me the questions,swarm
+What is DNA replication,other
+Tell me about the internet,other
+is the weather nice,weather
+is it warm enough to swim,weather
+thanks,other
+weather for tomorrow morning,weather
+Tell me about astronomy,other
+how,other
+what's today's date,time
+tell me about the history of the internet,other
+add redundant link between node-1 and node-12,swarm
+how do I install TensorFlow,other
+Can you explain the internet,other
+write a product description for wireless headphones,other
+verify peer identity,swarm
+what is a gossip protocol in computer science,other
+What time is it on the east coast?,time
+How fast are we generating results?,swarm
+Give me information about artificial intelligence,other
+how do I scale a web application horizontally,other
+What's the status of the hive?,swarm
+Help me understand gravity,other
+weather please,weather
+explain the difference between GET and POST,other
+Give me information about philosophy,other
+Do you know how many members are offline?,swarm
+How freezing is it going to be?,weather
+recalculate mesh spanning tree,swarm
+is it overcast today,weather
+I want to know about astronomy,other
+show peer discovery log,swarm
+observer count,swarm
+how's the weather for the weekend,weather
+What did the probes decide?,swarm
+check network,swarm
+I'm curious about statistics,other
+Help me understand nuclear fusion,other
+weather for the week ahead,weather
+Describe magnetism,other
+Is the hive healthy?,swarm
+what's the forecast for tomorrow,weather
+scale the cluster to 12 nodes,swarm
+Describe the water cycle,other
+am I connected to the swarm,swarm
+weather in Tokyo today,weather
+current temperature in celsius,weather
+weather for hiking this weekend,weather
+show consensus state,swarm
+Help me understand the French Revolution,other
+what's happening in the swarm,swarm
+stopwatch,time
+clear peer blocklist,swarm
+is it going to storm,weather
+heal the cluster partition,swarm
+system uptime,time
+hub-east is unresponsive,swarm
+how many users are in the swarm,swarm
+How many minutes until Friday?,time
+How is the cluster today?,swarm
+list peers,swarm
+what time is it in Tokyo,time
+Are there any active clients?,swarm
+Do you know how many workers are disconnected?,swarm
+What's going on in the mesh?,swarm
+optimize for minimum latency routing,swarm
+Give me information about statistics,other
+What do the members think?,swarm
+what does joining a swarm mean in this context,other
+How is the network performing?,swarm
+how do I implement binary search,other
+Can I see the messages?,swarm
+why is tok/s so low,swarm
+how do I center a div in CSS,other
+Explain evolution,other
+when is the next holiday,time
+Give me information about the French Revolution,other
+What is the water cycle,other
+how do I use async/await in JavaScript,other
+send a diagnostic ping to all nodes,swarm
+What is magnetism,other
+what's on my schedule,time
+Tell me about DNA replication,other
+unix timestamp right now,time
+merge two swarm partitions,swarm
+how do I make a budget,other
+balance load across workers,swarm
+write a short story about a robot,other
+I want to see the members,swarm
+will it rain tonight,weather
+What's the temperature right now?,weather
+what's the wind speed,weather
+I'm curious about antibiotics,other
+Is the topology running?,swarm
+what is a race condition,other
+is there a winter storm warning,weather
+which hub has the lowest latency,swarm
+give me tips for public speaking,other
+sync state across peers,swarm
+Teach me about climate change,other
+Give me information about quantum computing,other
+I'm curious about climate change,other
+Is the task queue running?,swarm
+help,other
+write a thank you email to my professor,other
+Tell me about genetics,other
+enable compression for mesh traffic,swarm
+never mind,other
+show top talkers in the mesh,swarm
+climate forecast for next month,weather
+set a reminder for 3pm,other
+time until sunset,time
+who won the 2022 World Cup,other
+I'm curious about magnetism,other
+I want to know about electricity,other
+Can you explain quantum computing,other
+How many observers do we have?,swarm
+how do I use matplotlib to make a chart,other
+Help me understand game theory,other
+is it going to rain today,weather
+How is the hive today?,swarm
+weather forecast for the weekend,weather
+I'm curious about the water cycle,other
+what are the symptoms of the flu,other
+show stats for worker-3,swarm
+How long has the hub been running?,swarm
+tell me a joke,other
+write an elevator pitch for my app,other
+what programming language is the swarm written in,other
+What is the internet,other
+Teach me about the human brain,other
+what is the capital of France,other
+How long have the participants been offline?,swarm
+which peers support protocol v3,swarm
+topology redundancy score,swarm
+I'm curious about quantum computing,other
+I got disconnected from the swarm,swarm
+show subnet groupings,swarm
+drain workers on node-5 before maintenance,swarm
+Can I see the questions?,swarm
+explain the swarm architecture to me,other
+Describe genetics,other
+Give me information about photosynthesis,other
+Tell me about statistics,other
+node-2 is flapping,swarm
+Explain astronomy,other
+What's the consensus among the peers?,swarm
+what is the GDP of the United States,other
+Explain machine learning,other
+show me the users,swarm
+how's the weather looking,weather
+how are you,other
+where,other
+Explain cryptocurrency,other
+forecast for today,weather
+question history,swarm
+Tell me about machine learning,other
+how many calories are in an avocado,other
+write a FAQ page for a SaaS product,other
+swarm overview,swarm
+recommend a movie for date night,other
+what's the schedule,time
+translate thank you to Korean,other
+how does Redis cluster work,other
+what's the cloud cover percentage,weather
+what's the distance from Earth to Mars,other
+Describe astronomy,other
+is it hailing,weather
+How's the weather tonight?,weather
+how do I use promises in JavaScript,other
+what time is it in London,time
+what's the date today,time
+kill stuck worker process,swarm
+what's a good recipe for banana bread,other
+mesh link latency report,swarm
+what's the tok/s,swarm
+greetings,other
+Show me the answers,swarm
+explain the Electoral College,other
+wow,other
+deploy config to all peers,swarm
+set gossip interval to 5s,swarm
+how do I reverse a linked list,other
+what's the current cluster status,swarm
+How many participants do we have?,swarm
+How many weeks until midnight?,time
+show the swarm topology,swarm
+how many observers are watching,swarm
+is it still today in Tokyo,time
+how do microservices communicate,other
+I'm curious about machine learning,other
+show swarm config,swarm
+what's the weather like,weather
+how's the weather tomorrow,weather
+help me debug this Python function,other
+who wrote Romeo and Juliet,other
+Anything interesting from the agents?,swarm
+weather conditions for driving,weather
+how do I set up a VPN,other
+what questions are being asked,swarm
+Tell me about the hub!,swarm
+What are the current network stats?,swarm
+connection quality score,swarm
+show nodes,swarm
+switch to flood routing mode,swarm
+Describe the stock market,other
+what time is it on the west coast,time
+split brain in the cluster,swarm
+How many tasks have been completed?,swarm
+What is genetics,other
+chance of precipitation,weather
+show me the weather,weather
+What time is it?,time
+stop,other
+Explain the internet,other
+I want to see the peers,swarm
+When is midnight?,time
+rotate leader role,swarm
+help me write a rap verse,other
+what is the connection between gravity and mass,other
+show swarm version info,swarm
+what time is midnight in UTC,time
+write a Python function to check if a string is a palindrome,other
+translate good morning to French,other
+how do I read binary files in Rust,other
+What is the French Revolution,other
+How long until sunrise?,time
+is it going to be a nice day,weather
+how hot is it going to be,weather
+how many planets are in the solar system,other
+last time the topology changed,swarm
+Explain game theory,other
+I want to know about genetics,other
+How many peers are running?,swarm
+turn off the lights,other
+Teach me about the Roman Empire,other
+I want to know about organic chemistry,other
+Do I need a hat this week?,weather
+weather for the next 10 days,weather
+latency percentiles for peer communication,swarm
+what day is it,time
+Help me understand organic chemistry,other
+what time is it,time
+explain the difference between HTTP and HTTPS,other
+set CPU quota per worker,swarm
+show hub connection pool,swarm
+what's good,other
+I want to know about the water cycle,other
+how long have I been connected,time
+Teach me about the solar system,other
+What is climate change,other
+Teach me about democracy,other
+what's the time,time
+Describe evolution,other
+I heard about your mesh network concept and want to learn more,other
+I want to know about philosophy,other
+show all hub endpoints,swarm
+What day is it?,time
+how many minutes in a day,time
+what's the weather doing,weather
+What is democracy,other
+What timezone is it?,time
+What's the status of the hub?,swarm
+how do I fix a git merge conflict,other
+Can you explain astronomy,other
+enable experimental mesh feature,swarm
+time difference between London and Tokyo,time
+when is Easter this year,time
+what week number is it,time
+what is technical debt,other
+why,other
+How many members are online?,swarm
+what's the time difference between here and London,time
+tell me the time,time
+Tell me about the routing table,swarm
+how's the swarm doing,swarm
+prioritize task queue,swarm
+what's the temperature outside,weather
+I'm curious about DNA replication,other
+time zone conversion,time
+tell me about cluster computing history,other
+chance of snow tomorrow,weather
+what is the Pythagorean theorem,other
+Describe the human brain,other
+how many hours in a week,time
+Give me information about electricity,other
+who discovered penicillin,other
+sunrise time today,weather
+shrink the cluster by 3 nodes,swarm
+Which users are online?,swarm
+Tell me about the Roman Empire,other
+will there be a storm tonight,weather
+swarm security scan,swarm
+Tell me about gravity,other
+get the mesh topology,swarm
+Is the network running?,swarm
+What is antibiotics,other
+explain the observer pattern,other
+is it Monday,time
+Teach me about machine learning,other

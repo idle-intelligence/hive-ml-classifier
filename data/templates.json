@@ -1,0 +1,130 @@
+{
+  "swarm_keywords": {
+    "actors": ["peers", "nodes", "workers", "clients", "observers", "users", "probes", "agents", "members", "participants"],
+    "metrics": ["tok/s", "tokens per second", "FLOPS", "flops", "throughput", "latency", "message rate", "token rate", "tokens/sec", "messages per second"],
+    "components": ["swarm", "mesh", "cluster", "hub", "network", "hive", "topology", "routing table", "message queue", "task queue"],
+    "statuses": ["connected", "online", "active", "idle", "running", "available", "busy", "synced", "disconnected", "offline"],
+    "data_nouns": ["messages", "tokens", "tasks", "questions", "answers", "responses", "queries", "votes", "results", "events"]
+  },
+
+  "swarm_question_templates": [
+    "How many {actors} are {statuses}?",
+    "How many {actors} are in the swarm?",
+    "How many {actors} are there?",
+    "How many {actors} do we have?",
+    "What's the {metrics}?",
+    "What's the current {metrics}?",
+    "What is the {metrics} right now?",
+    "How fast are we generating {data_nouns}?",
+    "How fast is the swarm generating {data_nouns}?",
+    "How is the {components} doing?",
+    "How is the {components} performing?",
+    "How is the {components} today?",
+    "What is the {components} doing right now?",
+    "What are the current {components} stats?",
+    "Is the {components} healthy?",
+    "Is the {components} running?",
+    "Are there any {statuses} {actors}?",
+    "Are all {actors} {statuses}?",
+    "Who answered the last question?",
+    "Who is generating {data_nouns}?",
+    "What {actors} are {statuses}?",
+    "Which {actors} are {statuses}?",
+    "Do you know how many {actors} are {statuses}?",
+    "Can you tell me how many {actors} are in the swarm?",
+    "Tell me about the {components}",
+    "Tell me about the {components}!",
+    "Tell me something about the {components}",
+    "Show me the {actors}",
+    "Show me the {data_nouns}",
+    "What do the {actors} think?",
+    "What are the {actors} saying?",
+    "What {data_nouns} have come in?",
+    "How many {data_nouns} have been processed?",
+    "How many {data_nouns} are in the queue?",
+    "How long has the {components} been running?",
+    "How long have the {actors} been {statuses}?",
+    "What's happening in the {components}?",
+    "What's going on in the {components}?",
+    "What's the status of the {components}?",
+    "What's up with the {components}?",
+    "Anything interesting from the {actors}?",
+    "Any updates from the {components}?",
+    "What did the {actors} decide?",
+    "What's the consensus among the {actors}?",
+    "How are the {actors} doing?",
+    "Can I see the {data_nouns}?",
+    "Give me the {components} stats",
+    "I want to see the {actors}",
+    "I want to know about the {components}",
+    "What's your {metrics}?",
+    "How fast are you?",
+    "How many {data_nouns} per second?"
+  ],
+
+  "general_statement_templates": [
+    "Tell me about {general_topic}",
+    "Explain {general_topic}",
+    "I want to know about {general_topic}",
+    "Describe {general_topic}",
+    "What is {general_topic}",
+    "Give me information about {general_topic}",
+    "Can you explain {general_topic}",
+    "Help me understand {general_topic}",
+    "I'm curious about {general_topic}",
+    "Teach me about {general_topic}"
+  ],
+
+  "general_topics": [
+    "photosynthesis", "quantum computing", "black holes", "machine learning",
+    "the French Revolution", "DNA replication", "plate tectonics", "gravity",
+    "cryptocurrency", "the solar system", "evolution", "artificial intelligence",
+    "the stock market", "climate change", "the water cycle", "magnetism",
+    "the Roman Empire", "nuclear fusion", "programming", "the human brain",
+    "electricity", "democracy", "the internet", "antibiotics",
+    "philosophy", "organic chemistry", "astronomy", "linguistics",
+    "game theory", "statistics", "thermodynamics", "genetics"
+  ],
+
+  "weather_question_templates": [
+    "How's the weather {time_ref}?",
+    "What's the weather going to be {time_ref}?",
+    "Is it going to {weather_action} {time_ref}?",
+    "What's the temperature {location_ref}?",
+    "How {temp_adj} is it going to be?",
+    "Will it {weather_action} {time_ref}?",
+    "Do I need {weather_item} {time_ref}?",
+    "Should I bring {weather_item}?",
+    "What should I wear {time_ref}?"
+  ],
+
+  "weather_vars": {
+    "time_ref": ["today", "tomorrow", "this weekend", "tonight", "this week", "this afternoon", "later", "right now"],
+    "weather_action": ["rain", "snow", "storm", "freeze", "be sunny", "clear up", "be windy", "hail"],
+    "location_ref": ["outside", "in my area", "right now", "in the city", "at the beach"],
+    "temp_adj": ["cold", "hot", "warm", "cool", "humid", "freezing"],
+    "weather_item": ["an umbrella", "a jacket", "sunscreen", "a coat", "boots", "a hat"]
+  },
+
+  "time_question_templates": [
+    "What time is it {location_ref}?",
+    "What's the {time_thing} {time_ref}?",
+    "How long until {time_event}?",
+    "How many {time_unit} until {time_event}?",
+    "When is {time_event}?",
+    "When does {time_event} start?",
+    "Is it {time_period} yet?",
+    "What {time_thing} is it?"
+  ],
+
+  "time_vars": {
+    "location_ref": ["in Tokyo", "in London", "in New York", "in UTC", "on the east coast", "here"],
+    "time_thing": ["time", "date", "day", "hour", "timezone"],
+    "time_ref": ["today", "right now", "in UTC", "where I am"],
+    "time_event": ["midnight", "noon", "Friday", "the weekend", "Christmas", "sunset", "sunrise", "the meeting"],
+    "time_unit": ["hours", "minutes", "days", "weeks"],
+    "time_period": ["morning", "afternoon", "evening", "nighttime", "lunchtime"]
+  },
+
+  "notes": "The Sonnet data engineer should: (1) Expand each swarm_question_template by substituting EVERY combination of keyword from the matching category (not all combos - pick 3-5 random keywords per template to avoid explosion). (2) Expand general_statement_templates × general_topics. (3) Expand weather and time templates similarly. (4) Add the entire existing dataset from data/v1-binary-backup/dataset.csv re-labeled for 4 classes. (5) TARGET: ~300+ examples per class, balanced question/statement format within each class. (6) CRITICAL: Ensure swarm class has MANY question-format examples (How/What/Why/Is/Are/Do/Can/Tell), and other class has MANY statement-format examples."
+}

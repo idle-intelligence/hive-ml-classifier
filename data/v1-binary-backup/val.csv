@@ -1,0 +1,117 @@
+text,label
+calculate the area of a circle with radius 5,general
+is the swarm traffic encrypted,general
+who won the 2022 World Cup,general
+what's a good recipe for banana bread,general
+explain Kubernetes networking,general
+stop the swarm,swarm
+how do I use Docker containers,general
+help me brainstorm startup ideas,general
+what is a service mesh like Istio,general
+cluster info,swarm
+what is dependency injection,general
+initialize swarm network,swarm
+write a Python script to analyze data,general
+translate thank you to Korean,general
+how do volcanoes form,general
+where,general
+can you repeat that,general
+show swarm config,swarm
+write a thank you email to my professor,general
+what are the rules of chess,general
+enable debug logging on the swarm,swarm
+show the message backlog,swarm
+connection to hub timed out,swarm
+list all swarm events since midnight,swarm
+write a children's bedtime story,general
+run a speed test,general
+who,general
+export topology as JSON,swarm
+failover to the backup cluster,swarm
+join the swarm,swarm
+what protocol version are peers running,swarm
+show swarm version on each node,swarm
+mesh check,swarm
+show me new peer connections in the last hour,swarm
+show routes,swarm
+add redundant link between node-1 and node-12,swarm
+run a cluster diagnostic,swarm
+what are Byzantine fault tolerant systems,general
+explain consensus mechanisms in blockchain,general
+how do I check my network connection on Windows,general
+explain closures in Python,general
+how do I use Kubernetes,general
+show subnet groupings,swarm
+how many calories are in an avocado,general
+I got disconnected from the swarm,swarm
+what is a Turing machine,general
+what's wrong with my connection,general
+optimize for minimum latency routing,swarm
+leave the swarm,swarm
+swarm resource allocation,swarm
+how do I set up a Python virtual environment,general
+export swarm logs,swarm
+how much does a Tesla cost,general
+isolate subnet-b,swarm
+assign task batch to workers,swarm
+what are the seven wonders of the world,general
+explain quantum computing in simple terms,general
+yes,general
+what is sharding in databases,general
+restore swarm from snapshot,swarm
+what is eventual consistency,general
+great job,general
+lost quorum,swarm
+tasks are stuck in the queue,swarm
+rate limit incoming connections,swarm
+what operating systems are supported for nodes,general
+balance load across workers,swarm
+how do I use async/await in JavaScript,general
+what causes earthquakes,general
+mesh network health check,swarm
+trace the route for message id abc123,swarm
+set CPU quota per worker,swarm
+how do distributed systems work,general
+explain the water cycle,general
+show worker throughput stats,swarm
+how do CDNs route traffic,general
+connections,swarm
+debug my network code,general
+which mesh links are degraded,swarm
+what's the distance from Earth to Mars,general
+write a newsletter intro,general
+never mind,general
+TLS status for peer connections,swarm
+what is the difference between hub and switch,general
+drop all idle connections,swarm
+turn off the lights,general
+how do I use matplotlib to make a chart,general
+recommend a good science fiction book,general
+throughput test across the mesh,swarm
+what kind of data flows through the mesh,general
+what is the Doppler effect,general
+play some jazz music,general
+check upgrade compatibility,swarm
+remove stale peer from the swarm,swarm
+write a resignation letter,general
+hmm,general
+what year did World War 2 end,general
+what does it mean to peer review a paper,general
+update swarm parameter max_peers,swarm
+how many nodes are in the cluster,swarm
+what's the difference between == and === in JavaScript,general
+write a short story about a robot,general
+write a haiku about winter,general
+connection timeout threshold,swarm
+show cluster resource usage,swarm
+migrate workload from cluster-a to cluster-b,swarm
+what is the connection between gravity and mass,general
+reassign failed tasks to available workers,swarm
+what programming language is the swarm written in,general
+show bandwidth per connection,swarm
+sync state across peers,swarm
+who painted the Mona Lisa,general
+write a product description for wireless headphones,general
+how do I connect to a PostgreSQL database,general
+scale the cluster to 12 nodes,swarm
+identify single points of failure in the topology,swarm

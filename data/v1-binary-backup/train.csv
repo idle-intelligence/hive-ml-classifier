@@ -1,0 +1,461 @@
+text,label
+is node-4 alive,swarm
+how does NAT traversal work,general
+show all hub endpoints,swarm
+send a diagnostic ping to all nodes,swarm
+show worker pool status,swarm
+good morning,general
+upgrade node firmware,swarm
+how do I deploy a website to AWS,general
+show nodes,swarm
+write a business plan outline,general
+help me debug this Python function,general
+shard migration status,swarm
+tell me about network topologies,general
+switch to flood routing mode,swarm
+write a song about friendship,general
+what are prime numbers,general
+how do I handle CORS errors,general
+show worker task queue depth,swarm
+who joined the swarm recently,swarm
+what's the tallest building in the world,general
+how do I read a CSV file in Python,general
+worker heartbeat timeout on node-3,swarm
+show certificate status for peers,swarm
+what's the replication factor,swarm
+how do I implement a hash table,general
+explain network latency,general
+I heard about your mesh network concept and want to learn more,general
+explain pub/sub messaging patterns,general
+what is a good ping time for gaming,general
+how do I use pandas groupby,general
+network status,swarm
+how does DNS routing work,general
+explain how compilers work,general
+explain the theory of relativity,general
+merge two swarm partitions,swarm
+how do you train a neural network,general
+what is a distributed hash table,general
+give me tips for public speaking,general
+prioritize task queue,swarm
+explain supply and demand,general
+show peer discovery log,swarm
+explain what an API is,general
+how do I fix packet loss,general
+when,general
+solve 2x + 5 = 17,general
+how do I troubleshoot WiFi issues,general
+get node-7 system metrics,swarm
+use shortest path routing,swarm
+swarm uptime report,swarm
+what's the weather like today,general
+what is RabbitMQ routing,general
+show peer reputation scores,swarm
+can you explain what this swarm system does,general
+I can't connect to the server,general
+explain list comprehension in Python,general
+recommend a movie for date night,general
+swarm health,swarm
+lol,general
+show me the cluster health,swarm
+explain WebRTC peer connections,general
+explain the Electoral College,general
+edit this photo for me,general
+bye,general
+deploy config to all peers,swarm
+tell me more,general
+do I need a static IP to be a peer,general
+what's the difference between DNA and RNA,general
+total number of active connections,swarm
+tell me about cluster computing history,general
+what are the symptoms of vitamin D deficiency,general
+worker crashed and won't restart,swarm
+swap hub-east for hub-east-v2,swarm
+force reconnect to hub-north,swarm
+connection count,swarm
+run garbage collection on all nodes,swarm
+explain the difference between GET and POST,general
+write a birthday message for my friend,general
+explain continuous integration,general
+what is memoization,general
+topology redundancy score,swarm
+how do I monitor network traffic,general
+swarm status,swarm
+how many workers are idle,swarm
+what's the current cluster status,swarm
+what's the square root of 144,general
+refresh the node registry,swarm
+how do I write unit tests in pytest,general
+how do I use promises in JavaScript,general
+show stale routes,swarm
+resume worker execution,swarm
+what are the benefits of meditation,general
+how does BitTorrent work,general
+explain Apache Kafka cluster architecture,general
+show the swarm topology,swarm
+set keepalive interval to 30s,swarm
+register this device as a peer,swarm
+explain the greenhouse effect,general
+is the mesh fully connected,swarm
+recalculate mesh spanning tree,swarm
+I don't know,general
+what causes Northern Lights,general
+what causes tides,general
+how do I optimize a SQL query,general
+which shard is on which node,swarm
+what's the population of Tokyo,general
+disk usage across swarm nodes,swarm
+my node isn't being discovered by peers,swarm
+I need to route this package to another address,general
+what is a worker thread in JavaScript,general
+write a cover letter for a software job,general
+compact swarm storage,swarm
+route check,swarm
+cool,general
+disconnect from peer 192.168.1.42,swarm
+what is a gossip protocol in computer science,general
+write an elevator pitch for my app,general
+how do I scale a web application horizontally,general
+how do I build a calculator in React,general
+show connection retry queue,swarm
+thanks,general
+how are you,general
+tell me about black holes,general
+tell me about the history of the internet,general
+monitor swarm bandwidth usage,swarm
+show consensus state,swarm
+show the worker stats,swarm
+ok,general
+node count,swarm
+subscribe to cluster events,swarm
+peer count,swarm
+explain the swarm architecture to me,general
+connection quality score,swarm
+repair broken mesh link between node-2 and node-8,swarm
+find me a plumber nearby,general
+hub load balancer status,swarm
+show data distribution across nodes,swarm
+duplicate messages from peer-4,swarm
+worker memory usage report,swarm
+summarize the conversation,general
+build a simple mesh network simulator,general
+set minimum peer count to 5,swarm
+worker status,swarm
+write a blog post about swarm intelligence in nature,general
+write a motivational quote,general
+explain connection pooling in databases,general
+what is game theory,general
+sure,general
+has the topology changed since yesterday,swarm
+is the cluster partitioned,swarm
+translate good morning to French,general
+go on,general
+enable experimental mesh feature,swarm
+what are the pros and cons of decentralization,general
+order me a pizza,general
+interesting,general
+authenticate peer handshake,swarm
+enable compression for mesh traffic,swarm
+what's,general
+propagate config update to all nodes,swarm
+show error rate by node,swarm
+rebalance shards,swarm
+which nodes are bridge nodes,swarm
+reconnect dropped peers,swarm
+detect network split,swarm
+how do I participate in the swarm,general
+translate hello to Japanese,general
+what's the speed of light,general
+how do I implement leader election algorithm,general
+check peer latency to hub-east,swarm
+stop,general
+sync peers,swarm
+show reconnection attempts,swarm
+is the cluster fully synced,swarm
+resync peer list,swarm
+explain the Raft consensus algorithm,general
+hub status,swarm
+how do I make pasta carbonara,general
+list pending swarm tasks,swarm
+rolling upgrade to swarm v2.1,swarm
+measure recovery time after node loss,swarm
+what is technical debt,general
+drain workers on node-5 before maintenance,swarm
+toggle mesh auto-discovery,swarm
+node uptime for the last week,swarm
+what is cryptocurrency,general
+update routing policy,swarm
+show cluster event history,swarm
+are all hubs online,swarm
+what's the difference between TCP and UDP,general
+help me name my new cat,general
+tell me a joke,general
+swarm info,swarm
+shrink the cluster by 3 nodes,swarm
+how do I handle errors in Rust,general
+who wrote Romeo and Juliet,general
+heartbeat check all nodes,swarm
+revoke compromised peer key,swarm
+what are the symptoms of the flu,general
+how do I encrypt a file,general
+run chaos testing on the swarm,swarm
+flag misbehaving node,swarm
+kill stuck worker process,swarm
+monitor peer churn rate,swarm
+am I connected to the swarm,swarm
+write a meal plan for the week,general
+how do hub and spoke networks compare to mesh,general
+show routing metrics for the last 24h,swarm
+routing loop detected,swarm
+hub-east is unresponsive,swarm
+ban peer node-9f from the network,swarm
+what's trending on Twitter,general
+what's the state of the mesh right now,swarm
+hi there,general
+swarm overview,swarm
+list peers,swarm
+set max message size to 1MB,swarm
+show banned peers,swarm
+how do I sort an array in JavaScript,general
+help me plan a trip to Italy,general
+no,general
+what happens if all nodes go offline,general
+how many peers are online right now,swarm
+whitelist peer by public key,swarm
+cancel swarm job 7891,swarm
+how do I use Redis as a cache,general
+how do I set up a VPN,general
+scale up the worker pool,swarm
+write code for a peer to peer chat app,general
+give me a random fun fact,general
+disable auto-join for new peers,swarm
+what is node.js cluster module,general
+translate I love you to 5 different languages,general
+hello,general
+explain deadlocks in operating systems,general
+configure auto-scaling policy for workers,swarm
+rotate swarm encryption keys,swarm
+mesh link latency report,swarm
+set preferred hub to hub-central,swarm
+how do neural networks work,general
+start the swarm,swarm
+broadcast message to the swarm,swarm
+who is the current leader node,swarm
+show audit trail for node-3,swarm
+visualize the network graph,swarm
+verify peer identity,swarm
+run swarm benchmark,swarm
+what's the difference between RAM and ROM,general
+check network,swarm
+trigger leader election,swarm
+failover hub routing to backup,swarm
+multicast to cluster-b nodes,swarm
+write a regex to match email addresses,general
+what's the difference between a stack and a queue,general
+how fault-tolerant is this system,general
+what is a race condition,general
+peers,swarm
+write a FAQ page for a SaaS product,general
+how do microservices communicate,general
+what were we talking about,general
+display the network mesh graph,swarm
+wait,general
+what causes inflation,general
+rebalance,swarm
+how do I make sourdough bread,general
+what is machine learning,general
+write an apology email,general
+write a Python function to check if a string is a palindrome,general
+latency percentiles for peer communication,swarm
+help me prepare for a job interview,general
+swarm seems slow today,swarm
+detect topology anomalies,swarm
+rotate leader role,swarm
+how do I install TensorFlow,general
+which worker is processing job-42,swarm
+explain how blockchain works,general
+what is the periodic table,general
+gossip protocol status,swarm
+cluster check,swarm
+explain the CAP theorem,general
+cleanup stale swarm data,swarm
+peer list,swarm
+compare routing algorithms,swarm
+how do I create a class in Java,general
+what is natural language processing,general
+configure retry policy for failed routes,swarm
+what's up,general
+how do I fix a git merge conflict,general
+write a social media post about our product launch,general
+what year was the telephone invented,general
+pause all workers,swarm
+connect to the wifi,general
+optimize mesh routing paths,swarm
+add a new node to the mesh,swarm
+how do I implement binary search,general
+show me cat memes,general
+how do I use git rebase,general
+write a function to merge two sorted arrays,general
+convert 72 degrees Fahrenheit to Celsius,general
+heal the cluster partition,swarm
+explain Big O notation,general
+simulate node failure for node-5,swarm
+how do I configure nginx,general
+show connection statistics,swarm
+what is climate change,general
+the hub keeps dropping my messages,swarm
+explain recursion to a five year old,general
+define node in graph theory,general
+help,general
+which connections are encrypted,swarm
+is something wrong with the mesh,swarm
+show the hub routing table,swarm
+find the bottleneck in the mesh,swarm
+check protocol compatibility,swarm
+which cluster region has the most load,swarm
+what's the mesh diameter right now,swarm
+how resource-intensive is running a node,general
+get peer info for node-alpha,swarm
+what is the capital of France,general
+node health,swarm
+show join/leave events,swarm
+node-2 is flapping,swarm
+how many hops to reach node-14,swarm
+show the mesh overlay diagram,swarm
+show connection handshake log,swarm
+write a poem about the ocean,general
+ping,swarm
+workers,swarm
+how many planets are in the solar system,general
+what is the meaning of life,general
+how do I parse JSON in Go,general
+clear the routing cache,swarm
+which peers support protocol v3,swarm
+compare topology snapshots,swarm
+network troubleshooting steps,general
+schedule a meeting for tomorrow,general
+nodes,swarm
+what is the GDP of the United States,general
+high latency to hub-west,swarm
+swarm security scan,swarm
+clear peer blocklist,swarm
+promote standby node to primary,swarm
+what does joining a swarm mean in this context,general
+search for flights to New York,general
+how do I create a WebSocket server,general
+check cluster quorum status,swarm
+connect to peer node-7a,swarm
+start over,general
+unsubscribe from topology changes,swarm
+set gossip interval to 5s,swarm
+describe how bees swarm,general
+how do I set up CI/CD with GitHub Actions,general
+ping all peers in the cluster,swarm
+enable mutual TLS for all connections,swarm
+check if peer abc123 is responsive,swarm
+show node degree distribution,swarm
+how,general
+redistribute traffic across hubs,swarm
+how do I reverse a linked list,general
+write a letter of recommendation template,general
+how do I center a div in CSS,general
+how does Redis cluster work,general
+what is dark matter,general
+recommend a good podcast,general
+wow,general
+split brain in the cluster,swarm
+connection pool exhausted on node-11,swarm
+how do I make a smoothie,general
+how are workers managed in Celery,general
+what is a VPN,general
+last time the topology changed,swarm
+write a press release template,general
+show stats for worker-3,swarm
+my internet is slow,general
+show worker error log,swarm
+what's the stock price of Apple,general
+proofread this paragraph for grammar,general
+help me write a rap verse,general
+which hub has the lowest latency,swarm
+show hub connection pool,swarm
+how do I create a REST API in Node.js,general
+demote node-5 from primary,swarm
+recommend a workout routine for beginners,general
+how does load balancing work,general
+show mesh connectivity matrix,swarm
+get the mesh topology,swarm
+show swarm version info,swarm
+topology,swarm
+restart the cluster coordinator,swarm
+mesh,swarm
+quarantine node-6,swarm
+forget it,general
+link status,swarm
+what nodes are currently reachable,swarm
+test partition tolerance,swarm
+snapshot the current swarm state,swarm
+write a dialogue between two characters,general
+show me all connected peers,swarm
+explain the stock market to a beginner,general
+what is the Fibonacci sequence,general
+set max concurrent workers to 8,swarm
+flush the message queue,swarm
+show task assignment map,swarm
+check my IP address,general
+max connections per node,swarm
+how do I make a budget,general
+hub info,swarm
+which route has the most hops,swarm
+show election history,swarm
+how do I read binary files in Rust,general
+enable mesh encryption,swarm
+write a limerick,general
+who's connected to the swarm,swarm
+explain TCP handshake,general
+what is the Pythagorean theorem,general
+why,general
+what is a mesh network,general
+alert when node count drops below 3,swarm
+list the active nodes in the cluster,swarm
+write a SQL query to find duplicate rows,general
+lmk when the swarm is back up,swarm
+explain the difference between HTTP and HTTPS,general
+which node is coordinator,swarm
+which hub is handling my traffic,swarm
+swarm firewall rules,swarm
+write a code review checklist,general
+show top talkers in the mesh,swarm
+bootstrap the mesh,swarm
+what is MQTT protocol,general
+write a toast for a wedding speech,general
+help me outline a novel,general
+switch my route to a different hub,swarm
+explain peer-to-peer networking,general
+is the network healthy,swarm
+drop the connection to node-3b,swarm
+explain object-oriented programming,general
+show swarm dashboard,swarm
+peers can't reach me,swarm
+what is photosynthesis,general
+show me which nodes are syncing,swarm
+node resource limits,swarm
+memory pressure on node-8,swarm
+set a reminder for 3pm,general
+what's the longest river in the world,general
+summarize this article for me,general
+can't join the swarm,general
+status,swarm
+how do I profile my Python code,general
+what are the health benefits of green tea,general
+restart worker-7,swarm
+route this message through hub-west,swarm
+how many tasks are queued in the swarm,swarm
+rebalance the cluster workload,swarm
+what is a message broker,general
+explain the observer pattern,general
+who discovered penicillin,general
+what's the boiling point of water,general
+how are messages being routed,swarm
+what's the p99 latency across the swarm,swarm
+set replication to 3,swarm
+reset swarm to default config,swarm

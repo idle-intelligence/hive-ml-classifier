@@ -1,0 +1,1509 @@
+text,label
+How many peers are running?,swarm
+How many clients are idle?,swarm
+How many workers are online?,swarm
+How many members are online?,swarm
+How many peers are in the swarm?,swarm
+How many nodes are in the swarm?,swarm
+How many clients are in the swarm?,swarm
+How many members are there?,swarm
+How many clients are there?,swarm
+How many probes are there?,swarm
+How many agents do we have?,swarm
+How many participants do we have?,swarm
+How many observers do we have?,swarm
+How many peers do we have?,swarm
+What's the message rate?,swarm
+What's the latency?,swarm
+What's the throughput?,swarm
+What's the FLOPS?,swarm
+What's the current latency?,swarm
+What's the current tokens per second?,swarm
+What's the current message rate?,swarm
+What is the latency right now?,swarm
+What is the messages per second right now?,swarm
+What is the throughput right now?,swarm
+How fast are we generating votes?,swarm
+How fast are we generating results?,swarm
+How fast are we generating tokens?,swarm
+How fast are we generating queries?,swarm
+How fast is the swarm generating results?,swarm
+How fast is the swarm generating answers?,swarm
+How fast is the swarm generating events?,swarm
+How fast is the swarm generating responses?,swarm
+How is the mesh doing?,swarm
+How is the swarm doing?,swarm
+How is the hub doing?,swarm
+How is the network doing?,swarm
+How is the hub performing?,swarm
+How is the mesh performing?,swarm
+How is the topology performing?,swarm
+How is the network performing?,swarm
+How is the hive today?,swarm
+How is the cluster today?,swarm
+How is the hub today?,swarm
+What is the mesh doing right now?,swarm
+What is the task queue doing right now?,swarm
+What is the cluster doing right now?,swarm
+What is the message queue doing right now?,swarm
+What is the hub doing right now?,swarm
+What are the current routing table stats?,swarm
+What are the current topology stats?,swarm
+What are the current network stats?,swarm
+What are the current message queue stats?,swarm
+Is the hive healthy?,swarm
+Is the swarm healthy?,swarm
+Is the hub healthy?,swarm
+Is the topology running?,swarm
+Is the network running?,swarm
+Is the mesh running?,swarm
+Is the hub running?,swarm
+Is the task queue running?,swarm
+Are there any idle agents?,swarm
+Are there any busy agents?,swarm
+Are there any active observers?,swarm
+Are there any active clients?,swarm
+Are there any disconnected members?,swarm
+Are all participants busy?,swarm
+Are all users idle?,swarm
+Are all workers disconnected?,swarm
+Are all agents online?,swarm
+Who answered the last question?,swarm
+Who is generating tokens?,swarm
+Who is generating tasks?,swarm
+Who is generating queries?,swarm
+What probes are busy?,swarm
+What participants are synced?,swarm
+What members are running?,swarm
+What members are connected?,swarm
+Which members are running?,swarm
+Which users are online?,swarm
+Which observers are busy?,swarm
+Which workers are synced?,swarm
+Do you know how many observers are disconnected?,swarm
+Do you know how many workers are disconnected?,swarm
+Do you know how many nodes are running?,swarm
+Do you know how many members are offline?,swarm
+Can you tell me how many workers are in the swarm?,swarm
+Can you tell me how many users are in the swarm?,swarm
+Can you tell me how many members are in the swarm?,swarm
+Tell me about the task queue,swarm
+Tell me about the hive,swarm
+Tell me about the routing table,swarm
+Tell me about the swarm,swarm
+Tell me about the hive!,swarm
+Tell me about the network!,swarm
+Tell me about the hub!,swarm
+Tell me about the swarm!,swarm
+Tell me something about the task queue,swarm
+Tell me something about the mesh,swarm
+Tell me something about the routing table,swarm
+Show me the members,swarm
+Show me the workers,swarm
+Show me the agents,swarm
+Show me the answers,swarm
+Show me the results,swarm
+Show me the events,swarm
+Show me the queries,swarm
+What do the members think?,swarm
+What do the clients think?,swarm
+What do the observers think?,swarm
+What do the probes think?,swarm
+What are the agents saying?,swarm
+What are the members saying?,swarm
+What are the nodes saying?,swarm
+What are the clients saying?,swarm
+What tokens have come in?,swarm
+What responses have come in?,swarm
+What messages have come in?,swarm
+What events have come in?,swarm
+How many events have been processed?,swarm
+How many questions have been processed?,swarm
+How many messages have been processed?,swarm
+How many tokens have been processed?,swarm
+How many questions are in the queue?,swarm
+How many tokens are in the queue?,swarm
+How many messages are in the queue?,swarm
+How many responses are in the queue?,swarm
+How long has the message queue been running?,swarm
+How long has the hub been running?,swarm
+How long has the network been running?,swarm
+How long has the routing table been running?,swarm
+How long have the members been active?,swarm
+How long have the participants been offline?,swarm
+How long have the agents been idle?,swarm
+How long have the agents been busy?,swarm
+What's happening in the mesh?,swarm
+What's happening in the topology?,swarm
+What's happening in the hive?,swarm
+What's going on in the topology?,swarm
+What's going on in the routing table?,swarm
+What's going on in the swarm?,swarm
+What's going on in the mesh?,swarm
+What's the status of the hive?,swarm
+What's the status of the mesh?,swarm
+What's the status of the hub?,swarm
+What's up with the cluster?,swarm
+What's up with the topology?,swarm
+What's up with the network?,swarm
+What's up with the routing table?,swarm
+Anything interesting from the nodes?,swarm
+Anything interesting from the agents?,swarm
+Anything interesting from the members?,swarm
+Any updates from the message queue?,swarm
+Any updates from the swarm?,swarm
+Any updates from the mesh?,swarm
+Any updates from the hub?,swarm
+What did the probes decide?,swarm
+What did the agents decide?,swarm
+What did the clients decide?,swarm
+What's the consensus among the peers?,swarm
+What's the consensus among the workers?,swarm
+What's the consensus among the probes?,swarm
+How are the agents doing?,swarm
+How are the observers doing?,swarm
+How are the probes doing?,swarm
+How are the members doing?,swarm
+Can I see the questions?,swarm
+Can I see the answers?,swarm
+Can I see the messages?,swarm
+Give me the hive stats,swarm
+Give me the swarm stats,swarm
+Give me the task queue stats,swarm
+I want to see the members,swarm
+I want to see the workers,swarm
+I want to see the peers,swarm
+I want to know about the cluster,swarm
+I want to know about the mesh,swarm
+I want to know about the task queue,swarm
+What's your message rate?,swarm
+What's your tokens per second?,swarm
+What's your messages per second?,swarm
+What's your flops?,swarm
+How fast are you?,swarm
+How many events per second?,swarm
+How many tokens per second?,swarm
+How many queries per second?,swarm
+How is the swarm today?,swarm
+Tell me something about the swarm!,swarm
+how many users are connected?,swarm
+Do you know how many peers are in the swarm?,swarm
+How fast are you generating tokens?,swarm
+What's your model size?,swarm
+How many tasks have been completed?,swarm
+What are the current swarm stats?,swarm
+Are there any idle peers?,swarm
+How long has the swarm been running?,swarm
+What's your tok/s?,swarm
+show me all connected peers,swarm
+list the active nodes in the cluster,swarm
+how many peers are online right now,swarm
+connect to peer node-7a,swarm
+disconnect from peer 192.168.1.42,swarm
+drop the connection to node-3b,swarm
+remove stale peer from the swarm,swarm
+add a new node to the mesh,swarm
+register this device as a peer,swarm
+what nodes are currently reachable,swarm
+ping all peers in the cluster,swarm
+check peer latency to hub-east,swarm
+show peer discovery log,swarm
+resync peer list,swarm
+refresh the node registry,swarm
+who joined the swarm recently,swarm
+show me new peer connections in the last hour,swarm
+ban peer node-9f from the network,swarm
+whitelist peer by public key,swarm
+authenticate peer handshake,swarm
+verify peer identity,swarm
+show me the cluster health,swarm
+what's the current cluster status,swarm
+is the cluster fully synced,swarm
+rebalance the cluster workload,swarm
+scale the cluster to 12 nodes,swarm
+shrink the cluster by 3 nodes,swarm
+how many nodes are in the cluster,swarm
+run a cluster diagnostic,swarm
+restart the cluster coordinator,swarm
+show cluster resource usage,swarm
+which cluster region has the most load,swarm
+migrate workload from cluster-a to cluster-b,swarm
+failover to the backup cluster,swarm
+promote standby node to primary,swarm
+demote node-5 from primary,swarm
+check cluster quorum status,swarm
+is the cluster partitioned,swarm
+heal the cluster partition,swarm
+show cluster event history,swarm
+get the mesh topology,swarm
+display the network mesh graph,swarm
+is the mesh fully connected,swarm
+show mesh connectivity matrix,swarm
+which mesh links are degraded,swarm
+repair broken mesh link between node-2 and node-8,swarm
+mesh network health check,swarm
+optimize mesh routing paths,swarm
+show the mesh overlay diagram,swarm
+how many hops to reach node-14,swarm
+what's the mesh diameter right now,swarm
+recalculate mesh spanning tree,swarm
+mesh link latency report,swarm
+toggle mesh auto-discovery,swarm
+enable mesh encryption,swarm
+show the hub routing table,swarm
+route this message through hub-west,swarm
+which hub is handling my traffic,swarm
+switch my route to a different hub,swarm
+show all hub endpoints,swarm
+hub load balancer status,swarm
+redistribute traffic across hubs,swarm
+hub-east is unresponsive,swarm
+failover hub routing to backup,swarm
+show hub connection pool,swarm
+which hub has the lowest latency,swarm
+set preferred hub to hub-central,swarm
+clear the routing cache,swarm
+show stale routes,swarm
+update routing policy,swarm
+how are messages being routed,swarm
+trace the route for message id abc123,swarm
+show routing metrics for the last 24h,swarm
+assign task batch to workers,swarm
+how many workers are idle,swarm
+show worker pool status,swarm
+scale up the worker pool,swarm
+kill stuck worker process,swarm
+restart worker-7,swarm
+which worker is processing job-42,swarm
+show worker throughput stats,swarm
+balance load across workers,swarm
+set max concurrent workers to 8,swarm
+worker heartbeat timeout on node-3,swarm
+show worker error log,swarm
+pause all workers,swarm
+resume worker execution,swarm
+drain workers on node-5 before maintenance,swarm
+show worker task queue depth,swarm
+reassign failed tasks to available workers,swarm
+worker memory usage report,swarm
+who's connected to the swarm,swarm
+total number of active connections,swarm
+show connection statistics,swarm
+drop all idle connections,swarm
+connection timeout threshold,swarm
+set keepalive interval to 30s,swarm
+show connection handshake log,swarm
+which connections are encrypted,swarm
+TLS status for peer connections,swarm
+show connection retry queue,swarm
+max connections per node,swarm
+connection pool exhausted on node-11,swarm
+rate limit incoming connections,swarm
+show bandwidth per connection,swarm
+connection quality score,swarm
+show the swarm topology,swarm
+visualize the network graph,swarm
+export topology as JSON,swarm
+compare topology snapshots,swarm
+has the topology changed since yesterday,swarm
+detect topology anomalies,swarm
+show subnet groupings,swarm
+which nodes are bridge nodes,swarm
+identify single points of failure in the topology,swarm
+show node degree distribution,swarm
+topology redundancy score,swarm
+add redundant link between node-1 and node-12,swarm
+swarm status,swarm
+swarm health,swarm
+peers,swarm
+nodes,swarm
+mesh,swarm
+topology,swarm
+workers,swarm
+hub status,swarm
+cluster info,swarm
+connections,swarm
+show swarm dashboard,swarm
+swarm overview,swarm
+network status,swarm
+node count,swarm
+peer count,swarm
+start the swarm,swarm
+stop the swarm,swarm
+initialize swarm network,swarm
+bootstrap the mesh,swarm
+join the swarm,swarm
+leave the swarm,swarm
+am I connected to the swarm,swarm
+is node-4 alive,swarm
+heartbeat check all nodes,swarm
+sync state across peers,swarm
+propagate config update to all nodes,swarm
+broadcast message to the swarm,swarm
+multicast to cluster-b nodes,swarm
+gossip protocol status,swarm
+show consensus state,swarm
+trigger leader election,swarm
+who is the current leader node,swarm
+which node is coordinator,swarm
+rotate leader role,swarm
+show election history,swarm
+swarm uptime report,swarm
+node uptime for the last week,swarm
+show peer reputation scores,swarm
+flag misbehaving node,swarm
+quarantine node-6,swarm
+run swarm benchmark,swarm
+throughput test across the mesh,swarm
+latency percentiles for peer communication,swarm
+show swarm version on each node,swarm
+rolling upgrade to swarm v2.1,swarm
+check upgrade compatibility,swarm
+deploy config to all peers,swarm
+snapshot the current swarm state,swarm
+restore swarm from snapshot,swarm
+export swarm logs,swarm
+show audit trail for node-3,swarm
+swarm security scan,swarm
+revoke compromised peer key,swarm
+rotate swarm encryption keys,swarm
+show certificate status for peers,swarm
+enable mutual TLS for all connections,swarm
+swarm firewall rules,swarm
+isolate subnet-b,swarm
+merge two swarm partitions,swarm
+detect network split,swarm
+show reconnection attempts,swarm
+force reconnect to hub-north,swarm
+monitor peer churn rate,swarm
+show join/leave events,swarm
+set minimum peer count to 5,swarm
+configure auto-scaling policy for workers,swarm
+what's the replication factor,swarm
+set replication to 3,swarm
+show data distribution across nodes,swarm
+rebalance shards,swarm
+shard migration status,swarm
+which shard is on which node,swarm
+list pending swarm tasks,swarm
+show task assignment map,swarm
+cancel swarm job 7891,swarm
+prioritize task queue,swarm
+swarm resource allocation,swarm
+node resource limits,swarm
+set CPU quota per worker,swarm
+memory pressure on node-8,swarm
+disk usage across swarm nodes,swarm
+cleanup stale swarm data,swarm
+compact swarm storage,swarm
+run garbage collection on all nodes,swarm
+show swarm config,swarm
+update swarm parameter max_peers,swarm
+reset swarm to default config,swarm
+what protocol version are peers running,swarm
+check protocol compatibility,swarm
+enable experimental mesh feature,swarm
+status,swarm
+ping,swarm
+check network,swarm
+show nodes,swarm
+list peers,swarm
+hub info,swarm
+worker status,swarm
+mesh check,swarm
+swarm info,swarm
+route check,swarm
+sync peers,swarm
+node health,swarm
+peer list,swarm
+cluster check,swarm
+rebalance,swarm
+show routes,swarm
+connection count,swarm
+link status,swarm
+show the worker stats,swarm
+show stats for worker-3,swarm
+get peer info for node-alpha,swarm
+what's the state of the mesh right now,swarm
+are all hubs online,swarm
+how many tasks are queued in the swarm,swarm
+check if peer abc123 is responsive,swarm
+show me which nodes are syncing,swarm
+last time the topology changed,swarm
+is the network healthy,swarm
+reconnect dropped peers,swarm
+send a diagnostic ping to all nodes,swarm
+swap hub-east for hub-east-v2,swarm
+list all swarm events since midnight,swarm
+get node-7 system metrics,swarm
+show swarm version info,swarm
+which peers support protocol v3,swarm
+upgrade node firmware,swarm
+enable debug logging on the swarm,swarm
+disable auto-join for new peers,swarm
+set max message size to 1MB,swarm
+configure retry policy for failed routes,swarm
+show the message backlog,swarm
+flush the message queue,swarm
+clear peer blocklist,swarm
+show banned peers,swarm
+set gossip interval to 5s,swarm
+enable compression for mesh traffic,swarm
+monitor swarm bandwidth usage,swarm
+show top talkers in the mesh,swarm
+alert when node count drops below 3,swarm
+subscribe to cluster events,swarm
+unsubscribe from topology changes,swarm
+what's the p99 latency across the swarm,swarm
+show error rate by node,swarm
+find the bottleneck in the mesh,swarm
+which route has the most hops,swarm
+optimize for minimum latency routing,swarm
+switch to flood routing mode,swarm
+use shortest path routing,swarm
+compare routing algorithms,swarm
+simulate node failure for node-5,swarm
+run chaos testing on the swarm,swarm
+test partition tolerance,swarm
+measure recovery time after node loss,swarm
+lmk when the swarm is back up,swarm
+swarm seems slow today,swarm
+is something wrong with the mesh,swarm
+the hub keeps dropping my messages,swarm
+my node isn't being discovered by peers,swarm
+peers can't reach me,swarm
+I got disconnected from the swarm,swarm
+connection to hub timed out,swarm
+worker crashed and won't restart,swarm
+tasks are stuck in the queue,swarm
+routing loop detected,swarm
+duplicate messages from peer-4,swarm
+high latency to hub-west,swarm
+node-2 is flapping,swarm
+split brain in the cluster,swarm
+lost quorum,swarm
+what is the swarm,swarm
+how does the swarm work,swarm
+explain the swarm to me,swarm
+what can the swarm do,swarm
+how many users are online,swarm
+how many users are in the swarm,swarm
+show me the users,swarm
+who are the active users,swarm
+list all users,swarm
+user count,swarm
+how many observers are there,swarm
+show observers,swarm
+list observers,swarm
+who is observing,swarm
+observer count,swarm
+are there any observers right now,swarm
+how many observers are watching,swarm
+what are observers seeing,swarm
+what questions are being asked,swarm
+show me the questions,swarm
+list recent questions,swarm
+what's the latest question,swarm
+how many questions have been asked,swarm
+question history,swarm
+show the question queue,swarm
+any new questions,swarm
+what questions are trending,swarm
+what's the tok/s,swarm
+tok/s,swarm
+tokens per second,swarm
+what's the throughput in tok/s,swarm
+show tok/s for each node,swarm
+tok/s is dropping,swarm
+why is tok/s so low,swarm
+average tok/s across the swarm,swarm
+tok/s benchmark,swarm
+current tok/s rate,swarm
+what's up with the swarm,swarm
+how's the swarm doing,swarm
+swarm stats,swarm
+give me a swarm update,swarm
+what's happening in the swarm,swarm
+anything interesting in the swarm,swarm
+swarm activity,swarm
+Tell me about photosynthesis,other
+Tell me about quantum computing,other
+Tell me about black holes,other
+Tell me about machine learning,other
+Tell me about the French Revolution,other
+Tell me about DNA replication,other
+Tell me about plate tectonics,other
+Tell me about gravity,other
+Tell me about cryptocurrency,other
+Tell me about the solar system,other
+Tell me about evolution,other
+Tell me about artificial intelligence,other
+Tell me about the stock market,other
+Tell me about climate change,other
+Tell me about the water cycle,other
+Tell me about magnetism,other
+Tell me about the Roman Empire,other
+Tell me about nuclear fusion,other
+Tell me about programming,other
+Tell me about the human brain,other
+Tell me about electricity,other
+Tell me about democracy,other
+Tell me about the internet,other
+Tell me about antibiotics,other
+Tell me about philosophy,other
+Tell me about organic chemistry,other
+Tell me about astronomy,other
+Tell me about linguistics,other
+Tell me about game theory,other
+Tell me about statistics,other
+Tell me about thermodynamics,other
+Tell me about genetics,other
+Explain photosynthesis,other
+Explain quantum computing,other
+Explain black holes,other
+Explain machine learning,other
+Explain the French Revolution,other
+Explain DNA replication,other
+Explain plate tectonics,other
+Explain gravity,other
+Explain cryptocurrency,other
+Explain the solar system,other
+Explain evolution,other
+Explain artificial intelligence,other
+Explain the stock market,other
+Explain climate change,other
+Explain the water cycle,other
+Explain magnetism,other
+Explain the Roman Empire,other
+Explain nuclear fusion,other
+Explain programming,other
+Explain the human brain,other
+Explain electricity,other
+Explain democracy,other
+Explain the internet,other
+Explain antibiotics,other
+Explain philosophy,other
+Explain organic chemistry,other
+Explain astronomy,other
+Explain linguistics,other
+Explain game theory,other
+Explain statistics,other
+Explain thermodynamics,other
+Explain genetics,other
+I want to know about photosynthesis,other
+I want to know about quantum computing,other
+I want to know about black holes,other
+I want to know about machine learning,other
+I want to know about the French Revolution,other
+I want to know about DNA replication,other
+I want to know about plate tectonics,other
+I want to know about gravity,other
+I want to know about cryptocurrency,other
+I want to know about the solar system,other
+I want to know about evolution,other
+I want to know about artificial intelligence,other
+I want to know about the stock market,other
+I want to know about climate change,other
+I want to know about the water cycle,other
+I want to know about magnetism,other
+I want to know about the Roman Empire,other
+I want to know about nuclear fusion,other
+I want to know about programming,other
+I want to know about the human brain,other
+I want to know about electricity,other
+I want to know about democracy,other
+I want to know about the internet,other
+I want to know about antibiotics,other
+I want to know about philosophy,other
+I want to know about organic chemistry,other
+I want to know about astronomy,other
+I want to know about linguistics,other
+I want to know about game theory,other
+I want to know about statistics,other
+I want to know about thermodynamics,other
+I want to know about genetics,other
+Describe photosynthesis,other
+Describe quantum computing,other
+Describe black holes,other
+Describe machine learning,other
+Describe the French Revolution,other
+Describe DNA replication,other
+Describe plate tectonics,other
+Describe gravity,other
+Describe cryptocurrency,other
+Describe the solar system,other
+Describe evolution,other
+Describe artificial intelligence,other
+Describe the stock market,other
+Describe climate change,other
+Describe the water cycle,other
+Describe magnetism,other
+Describe the Roman Empire,other
+Describe nuclear fusion,other
+Describe programming,other
+Describe the human brain,other
+Describe electricity,other
+Describe democracy,other
+Describe the internet,other
+Describe antibiotics,other
+Describe philosophy,other
+Describe organic chemistry,other
+Describe astronomy,other
+Describe linguistics,other
+Describe game theory,other
+Describe statistics,other
+Describe thermodynamics,other
+Describe genetics,other
+What is photosynthesis,other
+What is quantum computing,other
+What is black holes,other
+What is machine learning,other
+What is the French Revolution,other
+What is DNA replication,other
+What is plate tectonics,other
+What is gravity,other
+What is cryptocurrency,other
+What is the solar system,other
+What is evolution,other
+What is artificial intelligence,other
+What is the stock market,other
+What is climate change,other
+What is the water cycle,other
+What is magnetism,other
+What is the Roman Empire,other
+What is nuclear fusion,other
+What is programming,other
+What is the human brain,other
+What is electricity,other
+What is democracy,other
+What is the internet,other
+What is antibiotics,other
+What is philosophy,other
+What is organic chemistry,other
+What is astronomy,other
+What is linguistics,other
+What is game theory,other
+What is statistics,other
+What is thermodynamics,other
+What is genetics,other
+Give me information about photosynthesis,other
+Give me information about quantum computing,other
+Give me information about black holes,other
+Give me information about machine learning,other
+Give me information about the French Revolution,other
+Give me information about DNA replication,other
+Give me information about plate tectonics,other
+Give me information about gravity,other
+Give me information about cryptocurrency,other
+Give me information about the solar system,other
+Give me information about evolution,other
+Give me information about artificial intelligence,other
+Give me information about the stock market,other
+Give me information about climate change,other
+Give me information about the water cycle,other
+Give me information about magnetism,other
+Give me information about the Roman Empire,other
+Give me information about nuclear fusion,other
+Give me information about programming,other
+Give me information about the human brain,other
+Give me information about electricity,other
+Give me information about democracy,other
+Give me information about the internet,other
+Give me information about antibiotics,other
+Give me information about philosophy,other
+Give me information about organic chemistry,other
+Give me information about astronomy,other
+Give me information about linguistics,other
+Give me information about game theory,other
+Give me information about statistics,other
+Give me information about thermodynamics,other
+Give me information about genetics,other
+Can you explain photosynthesis,other
+Can you explain quantum computing,other
+Can you explain black holes,other
+Can you explain machine learning,other
+Can you explain the French Revolution,other
+Can you explain DNA replication,other
+Can you explain plate tectonics,other
+Can you explain gravity,other
+Can you explain cryptocurrency,other
+Can you explain the solar system,other
+Can you explain evolution,other
+Can you explain artificial intelligence,other
+Can you explain the stock market,other
+Can you explain climate change,other
+Can you explain the water cycle,other
+Can you explain magnetism,other
+Can you explain the Roman Empire,other
+Can you explain nuclear fusion,other
+Can you explain programming,other
+Can you explain the human brain,other
+Can you explain electricity,other
+Can you explain democracy,other
+Can you explain the internet,other
+Can you explain antibiotics,other
+Can you explain philosophy,other
+Can you explain organic chemistry,other
+Can you explain astronomy,other
+Can you explain linguistics,other
+Can you explain game theory,other
+Can you explain statistics,other
+Can you explain thermodynamics,other
+Can you explain genetics,other
+Help me understand photosynthesis,other
+Help me understand quantum computing,other
+Help me understand black holes,other
+Help me understand machine learning,other
+Help me understand the French Revolution,other
+Help me understand DNA replication,other
+Help me understand plate tectonics,other
+Help me understand gravity,other
+Help me understand cryptocurrency,other
+Help me understand the solar system,other
+Help me understand evolution,other
+Help me understand artificial intelligence,other
+Help me understand the stock market,other
+Help me understand climate change,other
+Help me understand the water cycle,other
+Help me understand magnetism,other
+Help me understand the Roman Empire,other
+Help me understand nuclear fusion,other
+Help me understand programming,other
+Help me understand the human brain,other
+Help me understand electricity,other
+Help me understand democracy,other
+Help me understand the internet,other
+Help me understand antibiotics,other
+Help me understand philosophy,other
+Help me understand organic chemistry,other
+Help me understand astronomy,other
+Help me understand linguistics,other
+Help me understand game theory,other
+Help me understand statistics,other
+Help me understand thermodynamics,other
+Help me understand genetics,other
+I'm curious about photosynthesis,other
+I'm curious about quantum computing,other
+I'm curious about black holes,other
+I'm curious about machine learning,other
+I'm curious about the French Revolution,other
+I'm curious about DNA replication,other
+I'm curious about plate tectonics,other
+I'm curious about gravity,other
+I'm curious about cryptocurrency,other
+I'm curious about the solar system,other
+I'm curious about evolution,other
+I'm curious about artificial intelligence,other
+I'm curious about the stock market,other
+I'm curious about climate change,other
+I'm curious about the water cycle,other
+I'm curious about magnetism,other
+I'm curious about the Roman Empire,other
+I'm curious about nuclear fusion,other
+I'm curious about programming,other
+I'm curious about the human brain,other
+I'm curious about electricity,other
+I'm curious about democracy,other
+I'm curious about the internet,other
+I'm curious about antibiotics,other
+I'm curious about philosophy,other
+I'm curious about organic chemistry,other
+I'm curious about astronomy,other
+I'm curious about linguistics,other
+I'm curious about game theory,other
+I'm curious about statistics,other
+I'm curious about thermodynamics,other
+I'm curious about genetics,other
+Teach me about photosynthesis,other
+Teach me about quantum computing,other
+Teach me about black holes,other
+Teach me about machine learning,other
+Teach me about the French Revolution,other
+Teach me about DNA replication,other
+Teach me about plate tectonics,other
+Teach me about gravity,other
+Teach me about cryptocurrency,other
+Teach me about the solar system,other
+Teach me about evolution,other
+Teach me about artificial intelligence,other
+Teach me about the stock market,other
+Teach me about climate change,other
+Teach me about the water cycle,other
+Teach me about magnetism,other
+Teach me about the Roman Empire,other
+Teach me about nuclear fusion,other
+Teach me about programming,other
+Teach me about the human brain,other
+Teach me about electricity,other
+Teach me about democracy,other
+Teach me about the internet,other
+Teach me about antibiotics,other
+Teach me about philosophy,other
+Teach me about organic chemistry,other
+Teach me about astronomy,other
+Teach me about linguistics,other
+Teach me about game theory,other
+Teach me about statistics,other
+Teach me about thermodynamics,other
+Teach me about genetics,other
+write a poem about the ocean,other
+help me debug this Python function,other
+what is the capital of France,other
+translate hello to Japanese,other
+tell me a joke,other
+how do I make pasta carbonara,other
+explain quantum computing in simple terms,other
+what's the weather like today,other
+summarize this article for me,other
+write a cover letter for a software job,other
+solve 2x + 5 = 17,other
+who won the 2022 World Cup,other
+recommend a good science fiction book,other
+what are the symptoms of the flu,other
+explain the difference between HTTP and HTTPS,other
+write a haiku about winter,other
+how do I center a div in CSS,other
+what year did World War 2 end,other
+convert 72 degrees Fahrenheit to Celsius,other
+write a regex to match email addresses,other
+who painted the Mona Lisa,other
+explain recursion to a five year old,other
+what's the population of Tokyo,other
+how do I reverse a linked list,other
+write a SQL query to find duplicate rows,other
+what causes earthquakes,other
+translate thank you to Korean,other
+give me a random fun fact,other
+how do I set up a Python virtual environment,other
+explain the theory of relativity,other
+write a short story about a robot,other
+help me plan a trip to Italy,other
+what's the difference between a stack and a queue,other
+how many planets are in the solar system,other
+proofread this paragraph for grammar,other
+write a birthday message for my friend,other
+how do I fix a git merge conflict,other
+what are prime numbers,other
+recommend a workout routine for beginners,other
+explain how blockchain works,other
+write a product description for wireless headphones,other
+what's the square root of 144,other
+who discovered penicillin,other
+how do I read a CSV file in Python,other
+tell me about the history of the internet,other
+write a thank you email to my professor,other
+what is the Pythagorean theorem,other
+how do I make sourdough bread,other
+explain what an API is,other
+write a limerick,other
+what's the boiling point of water,other
+help me name my new cat,other
+how do neural networks work,other
+what is the GDP of the United States,other
+write a letter of recommendation template,other
+how do I sort an array in JavaScript,other
+what causes inflation,other
+translate good morning to French,other
+write a Python function to check if a string is a palindrome,other
+what's the distance from Earth to Mars,other
+explain the stock market to a beginner,other
+how do I create a REST API in Node.js,other
+what are the seven wonders of the world,other
+write a toast for a wedding speech,other
+how do I use Docker containers,other
+what is the Fibonacci sequence,other
+recommend a movie for date night,other
+how do I encrypt a file,other
+what's the difference between DNA and RNA,other
+write a business plan outline,other
+how do I connect to a PostgreSQL database,other
+what causes Northern Lights,other
+explain object-oriented programming,other
+write a resignation letter,other
+how many calories are in an avocado,other
+help me brainstorm startup ideas,other
+how do I deploy a website to AWS,other
+what's the speed of light,other
+write a children's bedtime story,other
+explain supply and demand,other
+how do I parse JSON in Go,other
+what are the symptoms of vitamin D deficiency,other
+write an apology email,other
+what is the meaning of life,other
+how do I use async/await in JavaScript,other
+who wrote Romeo and Juliet,other
+calculate the area of a circle with radius 5,other
+what's a good recipe for banana bread,other
+how do I set up CI/CD with GitHub Actions,other
+write a motivational quote,other
+what is the periodic table,other
+how do you train a neural network,other
+what's the longest river in the world,other
+write a dialogue between two characters,other
+how do I install TensorFlow,other
+what are the benefits of meditation,other
+explain Big O notation,other
+write a press release template,other
+how do I make a budget,other
+help me prepare for a job interview,other
+how do I use git rebase,other
+what's the difference between TCP and UDP,other
+write a song about friendship,other
+how do I build a calculator in React,other
+explain the Electoral College,other
+how do I read binary files in Rust,other
+what are the health benefits of green tea,other
+write an elevator pitch for my app,other
+how do I create a WebSocket server,other
+what year was the telephone invented,other
+give me tips for public speaking,other
+how do I optimize a SQL query,other
+what is a Turing machine,other
+write a code review checklist,other
+how do volcanoes form,other
+translate I love you to 5 different languages,other
+how do I implement binary search,other
+what is dark matter,other
+write a social media post about our product launch,other
+how do I configure nginx,other
+what are the rules of chess,other
+explain the greenhouse effect,other
+help me write a rap verse,other
+how do I handle errors in Rust,other
+what's the tallest building in the world,other
+write a FAQ page for a SaaS product,other
+how do I set up a VPN,other
+what is natural language processing,other
+recommend a good podcast,other
+how do I use matplotlib to make a chart,other
+what causes tides,other
+write a meal plan for the week,other
+how do I implement a hash table,other
+what is the Doppler effect,other
+help me outline a novel,other
+how do I use Kubernetes,other
+what's the difference between RAM and ROM,other
+write a newsletter intro,other
+how do I make a smoothie,other
+explain how compilers work,other
+good morning,other
+hello,other
+hi there,other
+thanks,other
+bye,other
+how are you,other
+what's up,other
+help,other
+yes,other
+no,other
+ok,other
+sure,other
+never mind,other
+what is a mesh network,other
+explain peer-to-peer networking,other
+how do distributed systems work,other
+what is a gossip protocol in computer science,other
+explain the CAP theorem,other
+what is eventual consistency,other
+how does load balancing work,other
+explain WebRTC peer connections,other
+what is a distributed hash table,other
+how does BitTorrent work,other
+explain the Raft consensus algorithm,other
+what is sharding in databases,other
+how do microservices communicate,other
+what is a service mesh like Istio,other
+explain Kubernetes networking,other
+how does DNS routing work,other
+what is MQTT protocol,other
+explain pub/sub messaging patterns,other
+what is a message broker,other
+how do CDNs route traffic,other
+tell me about network topologies,other
+what is the difference between hub and switch,other
+explain TCP handshake,other
+how does NAT traversal work,other
+what are the pros and cons of decentralization,other
+explain consensus mechanisms in blockchain,other
+write code for a peer to peer chat app,other
+build a simple mesh network simulator,other
+how do I implement leader election algorithm,other
+what are Byzantine fault tolerant systems,other
+how are workers managed in Celery,other
+explain Apache Kafka cluster architecture,other
+what is RabbitMQ routing,other
+how does Redis cluster work,other
+explain connection pooling in databases,other
+what is node.js cluster module,other
+how do I scale a web application horizontally,other
+can you explain what this swarm system does,other
+I heard about your mesh network concept and want to learn more,other
+write a blog post about swarm intelligence in nature,other
+what is a worker thread in JavaScript,other
+how do hub and spoke networks compare to mesh,other
+define node in graph theory,other
+what does it mean to peer review a paper,other
+I need to route this package to another address,other
+how do I check my network connection on Windows,other
+what is the connection between gravity and mass,other
+tell me about cluster computing history,other
+describe how bees swarm,other
+what's,other
+I don't know,other
+can you repeat that,other
+tell me more,other
+go on,other
+wait,other
+stop,other
+start over,other
+forget it,other
+hmm,other
+interesting,other
+wow,other
+cool,other
+lol,other
+great job,other
+why,other
+when,other
+who,other
+where,other
+how,other
+debug my network code,other
+my internet is slow,other
+how do I troubleshoot WiFi issues,other
+what's wrong with my connection,other
+I can't connect to the server,other
+network troubleshooting steps,other
+how do I fix packet loss,other
+explain network latency,other
+what is a good ping time for gaming,other
+connect to the wifi,other
+what is a VPN,other
+how do I monitor network traffic,other
+run a speed test,other
+check my IP address,other
+write a Python script to analyze data,other
+how do I use pandas groupby,other
+explain list comprehension in Python,other
+what's the difference between == and === in JavaScript,other
+how do I use promises in JavaScript,other
+explain closures in Python,other
+how do I create a class in Java,other
+write a function to merge two sorted arrays,other
+explain the difference between GET and POST,other
+how do I handle CORS errors,other
+what is a race condition,other
+explain deadlocks in operating systems,other
+how do I profile my Python code,other
+what is memoization,other
+how do I use Redis as a cache,other
+explain the observer pattern,other
+what is dependency injection,other
+how do I write unit tests in pytest,other
+explain continuous integration,other
+what is technical debt,other
+can't join the swarm,other
+what does joining a swarm mean in this context,other
+how do I participate in the swarm,other
+explain the swarm architecture to me,other
+what kind of data flows through the mesh,other
+is the swarm traffic encrypted,other
+what happens if all nodes go offline,other
+how fault-tolerant is this system,other
+what programming language is the swarm written in,other
+how resource-intensive is running a node,other
+do I need a static IP to be a peer,other
+what operating systems are supported for nodes,other
+summarize the conversation,other
+what were we talking about,other
+search for flights to New York,other
+set a reminder for 3pm,other
+play some jazz music,other
+what's trending on Twitter,other
+order me a pizza,other
+turn off the lights,other
+schedule a meeting for tomorrow,other
+find me a plumber nearby,other
+how much does a Tesla cost,other
+what's the stock price of Apple,other
+show me cat memes,other
+edit this photo for me,other
+what's up?,other
+sup,other
+yo,other
+hey,other
+hiya,other
+howdy,other
+what's good,other
+how's it going,other
+what's happening,other
+anything new,other
+what's new,other
+hey there,other
+greetings,other
+hi,other
+How's the weather this week?,weather
+How's the weather tonight?,weather
+How's the weather this afternoon?,weather
+What's the weather going to be this weekend?,weather
+What's the weather going to be this week?,weather
+What's the weather going to be right now?,weather
+What's the weather going to be this afternoon?,weather
+What's the weather going to be tomorrow?,weather
+Is it going to hail tomorrow?,weather
+Is it going to snow tonight?,weather
+Is it going to be sunny this weekend?,weather
+Is it going to clear up tomorrow?,weather
+What's the temperature right now?,weather
+What's the temperature in my area?,weather
+What's the temperature in the city?,weather
+How humid is it going to be?,weather
+How freezing is it going to be?,weather
+How cold is it going to be?,weather
+Will it snow this weekend?,weather
+Will it be sunny tomorrow?,weather
+Will it be sunny this week?,weather
+Will it freeze this afternoon?,weather
+Do I need a hat this week?,weather
+Do I need boots right now?,weather
+Do I need sunscreen today?,weather
+Do I need an umbrella later?,weather
+Should I bring an umbrella?,weather
+Should I bring sunscreen?,weather
+Should I bring a jacket?,weather
+Should I bring a hat?,weather
+What should I wear this weekend?,weather
+What should I wear right now?,weather
+What should I wear later?,weather
+What should I wear today?,weather
+What should I wear tomorrow?,weather
+what's the weather like,weather
+is it going to rain today,weather
+what's the temperature outside,weather
+will it snow this weekend,weather
+how's the weather in New York,weather
+is it cold outside,weather
+do I need an umbrella today,weather
+what's the forecast for tomorrow,weather
+is it sunny right now,weather
+how hot is it going to be,weather
+what's the humidity today,weather
+will there be a storm tonight,weather
+weather report for this week,weather
+is it windy outside,weather
+what's the high temperature today,weather
+what's the low tonight,weather
+chance of rain this afternoon,weather
+is there a heat wave coming,weather
+weather forecast for the weekend,weather
+what's the UV index today,weather
+is it going to be cloudy,weather
+temperature right now,weather
+will it be warm enough for a picnic,weather
+what's the weather like in London,weather
+is there fog this morning,weather
+current weather conditions,weather
+will it freeze tonight,weather
+what's the dew point,weather
+is a hurricane coming,weather
+weather alert for my area,weather
+should I wear a jacket today,weather
+is it raining right now,weather
+how much rain did we get yesterday,weather
+will there be thunderstorms,weather
+what's the wind speed,weather
+barometric pressure today,weather
+is it a good day for the beach,weather
+weather in San Francisco this week,weather
+how cold will it get tonight,weather
+pollen count today,weather
+air quality index,weather
+is it hailing,weather
+what's the feels-like temperature,weather
+sunrise time today,weather
+sunset time today,weather
+will the roads be icy,weather
+what's the wind chill,weather
+is there a tornado warning,weather
+how much snow is expected,weather
+weather radar for my location,weather
+tropical storm update,weather
+is it overcast today,weather
+what's the visibility like,weather
+heat index today,weather
+frost warning tonight,weather
+weather for my commute,weather
+will the fog clear by noon,weather
+climate forecast for next month,weather
+is it drizzling outside,weather
+what's the weather supposed to be like this evening,weather
+do I need sunscreen today,weather
+is it muggy outside,weather
+weather for hiking this weekend,weather
+chance of snow tomorrow,weather
+is it going to be a nice day,weather
+current temperature in celsius,weather
+what's the overnight low,weather
+weather update,weather
+any severe weather warnings,weather
+is there a blizzard coming,weather
+how's the weather looking for Friday,weather
+is it pleasant outside,weather
+what's the atmospheric pressure,weather
+weather conditions for driving,weather
+is there black ice on the roads,weather
+will the weather hold up for the game,weather
+what's the cloud cover percentage,weather
+rain forecast for the next hour,weather
+is it a good day to fly,weather
+what's the marine forecast,weather
+extended weather forecast,weather
+is it warm enough to swim,weather
+weather for the next 10 days,weather
+what's the weather gonna be,weather
+weather in Tokyo today,weather
+is there a flood warning,weather
+how's the weather out there,weather
+temperature trend this week,weather
+will it be dry tomorrow,weather
+what's the dewpoint temperature,weather
+chance of precipitation,weather
+what's the weather forecast for today,weather
+how warm is it outside,weather
+is it going to rain this week,weather
+what's the temperature in Chicago,weather
+will it be hot tomorrow,weather
+is there a winter storm warning,weather
+how's the weather in Paris,weather
+what's the weather doing,weather
+is it freezing outside,weather
+weather in Miami this weekend,weather
+what's the high for today,weather
+any rain coming,weather
+is it still snowing,weather
+weather check,weather
+how's the weather looking,weather
+will it clear up later,weather
+is it supposed to rain,weather
+temperature forecast,weather
+what's the weather for tonight,weather
+is it nice out,weather
+how's the weather tomorrow,weather
+is it going to be cold tomorrow,weather
+weather outside,weather
+what's it like outside,weather
+is it hot out,weather
+is it cold out,weather
+weather please,weather
+show me the weather,weather
+what will the weather be like next week,weather
+is it going to storm,weather
+how's the weather for the weekend,weather
+weather for running today,weather
+will it rain tonight,weather
+current weather,weather
+is it warm today,weather
+what's the temperature gonna be,weather
+forecast for today,weather
+weather conditions right now,weather
+is it dry outside,weather
+what's the weather looking like for Saturday,weather
+do I need a coat,weather
+is it chilly outside,weather
+how much snow today,weather
+is the weather nice,weather
+weather in Berlin,weather
+what's the weather like in my area,weather
+rain today,weather
+snow forecast,weather
+is it clear outside,weather
+what's the temperature in my city,weather
+weather for tomorrow morning,weather
+is it bright outside,weather
+what's the weather in Seattle,weather
+weather for outdoor dining,weather
+will it be cold this weekend,weather
+temperature check,weather
+is it breezy out,weather
+what's the forecast looking like,weather
+weather for the week ahead,weather
+any storms coming,weather
+What time is it here?,time
+What time is it in London?,time
+What time is it on the east coast?,time
+What time is it in Tokyo?,time
+What's the timezone right now?,time
+What's the hour right now?,time
+What's the time in UTC?,time
+What's the day today?,time
+What's the day right now?,time
+How long until noon?,time
+How long until sunset?,time
+How long until sunrise?,time
+How long until Friday?,time
+How many minutes until Friday?,time
+How many weeks until midnight?,time
+How many minutes until sunset?,time
+How many weeks until the weekend?,time
+When is Friday?,time
+When is noon?,time
+When is sunrise?,time
+When is midnight?,time
+When is the meeting?,time
+When does the weekend start?,time
+When does the meeting start?,time
+When does sunset start?,time
+When does Christmas start?,time
+Is it afternoon yet?,time
+Is it morning yet?,time
+Is it nighttime yet?,time
+What day is it?,time
+What time is it?,time
+What timezone is it?,time
+what time is it,time
+what's the current time,time
+what time is it in Tokyo,time
+current time,time
+what's the time,time
+time right now,time
+what time is it in London,time
+what's the time in New York,time
+time in UTC,time
+what's the current UTC time,time
+what time zone am I in,time
+convert 3pm EST to PST,time
+time difference between London and Tokyo,time
+what's the time in GMT,time
+how many hours ahead is Tokyo,time
+what time is it on the east coast,time
+what time is it on the west coast,time
+military time right now,time
+what's 1400 in regular time,time
+convert 8pm to 24 hour format,time
+what time does the sun set,time
+what time is dawn,time
+what time is midnight in UTC,time
+current epoch time,time
+unix timestamp right now,time
+what's the date today,time
+what day is it,time
+what's today's date,time
+today's date,time
+what day of the week is it,time
+is it Monday,time
+what month is it,time
+what year is it,time
+what's the current date and time,time
+date and time right now,time
+how many days until Christmas,time
+how many days until New Year,time
+how long until Friday,time
+days until my birthday on March 15,time
+how many weeks until summer,time
+when is the next holiday,time
+how many days are left in the month,time
+how many days left in the year,time
+countdown to midnight,time
+how long ago was January 1st,time
+what week number is it,time
+is it daylight saving time,time
+when does daylight saving time start,time
+when does DST end,time
+what's the time offset for EST,time
+how many hours until midnight,time
+how many minutes until noon,time
+is it morning or afternoon,time
+is it AM or PM,time
+what quarter of the year is it,time
+how many seconds since midnight,time
+what time was it 3 hours ago,time
+what time will it be in 2 hours,time
+when is sunset today,time
+when is sunrise tomorrow,time
+what's the Julian date,time
+elapsed time since start,time
+how long has the session been running,time
+duration since last restart,time
+uptime,time
+system uptime,time
+how long have I been connected,time
+session duration,time
+time elapsed,time
+how long has it been,time
+timer,time
+stopwatch,time
+set a timer for 5 minutes,time
+start a countdown,time
+how much time is left,time
+time remaining,time
+ETA,time
+estimated time of arrival,time
+when will it finish,time
+how long will it take,time
+time to completion,time
+what's the schedule,time
+when is the meeting,time
+what time does it start,time
+when does it end,time
+how long is the event,time
+next appointment,time
+calendar for today,time
+what's on my schedule,time
+what time is it right now,time
+tell me the time,time
+the time please,time
+what's the clock say,time
+time check,time
+what's the current date and time in UTC,time
+how many hours until the end of the day,time
+is it nighttime,time
+is it daytime,time
+what time is it in Berlin,time
+time in Australia,time
+what's the time in China,time
+what time is it in India,time
+convert noon EST to UTC,time
+how many time zones are there,time
+time in California,time
+what's Pacific time right now,time
+what's Eastern time,time
+Central time right now,time
+Mountain time,time
+how long until the weekend,time
+how many days until spring,time
+days left until March,time
+when is Easter this year,time
+how many hours left today,time
+how long until 5pm,time
+minutes until the hour,time
+time until sunset,time
+how old am I if I was born in 1990,time
+what century is it,time
+what decade is it,time
+what's the ISO date,time
+date in European format,time
+show the calendar,time
+calendar for this month,time
+what time was sunset yesterday,time
+when is the next full moon,time
+what time is noon in Tokyo,time
+how many days in February this year,time
+is it a leap year,time
+what's the time difference between here and London,time
+how many minutes in a day,time
+how many hours in a week,time
+time since midnight,time
+what time is it in UTC+5,time
+local time,time
+current local time,time
+what time is it where I am,time
+show me the date,time
+today,time
+now,time
+what's the current hour,time
+time zone conversion,time
+when does the day end,time
+how many hours since noon,time
+what time is golden hour,time
+how many days until the election,time
+is it still today in Tokyo,time
