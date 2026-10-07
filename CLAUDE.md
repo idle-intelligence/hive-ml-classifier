@@ -6,12 +6,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ML classifier for the Hive swarm system. Routes user input into four categories (swarm, weather, time, other) using a fine-tuned BERT model running client-side in the browser via Rust/WASM.
 
-Three-language stack:
-- **Python** — training pipeline (HuggingFace transformers, torch, datasets)
-- **Rust** — inference via Candle compiled to WASM (candle-core, candle-nn, candle-transformers, tokenizers crate)
-- **JavaScript** — web worker integration, main thread API
+This repo is the ML side only: dataset generation (`data/`), training (`training/`), and
+model deliveries (`delivery*/`, config + tokenizer; weights ship separately). The Rust/WASM
+inference pipeline and web worker live in the consuming Hive app, not here.
 
-## Architecture
+## Architecture (consuming app)
 
 ```
 Main Thread → postMessage → Web Worker (WASM) → classify → postMessage → Routing
@@ -26,13 +25,13 @@ Two user types affect routing:
 ## Build Commands
 
 ```bash
-# Python: train the model
-python train.py
+# Generate and split the dataset
+python data/generate.py
+python data/split.py
 
-# Rust: build WASM
-cargo install wasm-pack
-wasm-pack build --target web --release
-# Output in ./pkg/ (~2-5MB WASM)
+# Train the model
+python training/train.py
+python training/eval.py
 
 # Inspect safetensors keys (debugging weight name mismatches)
 python -c "from safetensors import safe_open; f = safe_open('model.safetensors', framework='pt'); [print(k, f.get_tensor(k).shape) for k in f.keys()]"
