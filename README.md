@@ -15,3 +15,7 @@ python eval.py       # evaluates on data/val.csv and a set of edge cases
 ```
 
 `generate.py` reads `templates.json` from the current directory, so run it from `data/`. Training uses a max length of 64 tokens. `train.py` renames the `LayerNorm` gamma/beta tensors to weight/bias, which is the naming Candle and current Transformers expect. The number of labels is read from the delivered `config.json`, so a model with a different label set needs no code change on the consumer side.
+
+## License
+
+Apache-2.0, see [LICENSE](LICENSE). The base models are MIT-licensed: [prajjwal1/bert-mini](https://huggingface.co/prajjwal1/bert-mini) and [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5). The trained classifiers are on Hugging Face at [idle-intelligence/inference-at-home](https://huggingface.co/idle-intelligence/inference-at-home).
